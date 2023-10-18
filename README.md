@@ -17,6 +17,11 @@ In this project, we employ the MobilenetV2 architecture to construct a waste cla
 - Pillow
 - scikit-learn
 
+You can use the following command to install all the requirements and than you should be ready to go.
+```python
+pip install -r requirements.txt
+```
+
 ## How to Use
 
 You can simply load the file "garbage_class_model.h5" and start the prediction.
